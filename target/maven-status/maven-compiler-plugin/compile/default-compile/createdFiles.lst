@@ -1,0 +1,4 @@
+com\nopcommerce\pageobjects\LoginPage.class
+com\nopcommerce\utilities\Reporting.class
+com\nopcommerce\utilities\XLUtils.class
+com\nopcommerce\utilities\ReadConfig.class
