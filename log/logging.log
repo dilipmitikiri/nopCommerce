@@ -155,3 +155,105 @@
 2021-10-29 17:13:42 INFO  nopCommerce:20 - password provided
 2021-10-29 17:13:45 INFO  nopCommerce:18 - user name provided
 2021-10-29 17:13:45 INFO  nopCommerce:20 - password provided
+2021-10-29 22:07:14 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:07:16 INFO  nopCommerce:14 - Opened URL
+2021-10-29 22:07:18 INFO  nopCommerce:18 - Entered Email
+2021-10-29 22:07:18 INFO  nopCommerce:20 - Entered password
+2021-10-29 22:07:19 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-29 22:07:19 INFO  nopCommerce:27 - Login test passed
+2021-10-29 22:07:21 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:07:27 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:07:27 INFO  nopCommerce:20 - password provided
+2021-10-29 22:07:29 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:07:30 INFO  nopCommerce:20 - password provided
+2021-10-29 22:07:32 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:07:32 INFO  nopCommerce:20 - password provided
+2021-10-29 22:07:34 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:07:34 INFO  nopCommerce:20 - password provided
+2021-10-29 22:07:37 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:07:37 INFO  nopCommerce:20 - password provided
+2021-10-29 22:10:11 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:10:13 INFO  nopCommerce:14 - Opened URL
+2021-10-29 22:10:14 INFO  nopCommerce:18 - Entered Email
+2021-10-29 22:10:14 INFO  nopCommerce:20 - Entered password
+2021-10-29 22:10:16 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-29 22:10:16 INFO  nopCommerce:27 - Login test passed
+2021-10-29 22:10:18 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:10:23 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:10:23 INFO  nopCommerce:20 - password provided
+2021-10-29 22:10:27 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:10:27 INFO  nopCommerce:20 - password provided
+2021-10-29 22:10:29 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:10:29 INFO  nopCommerce:20 - password provided
+2021-10-29 22:10:30 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:10:30 INFO  nopCommerce:20 - password provided
+2021-10-29 22:10:34 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:10:34 INFO  nopCommerce:20 - password provided
+2021-10-29 22:31:12 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:31:14 INFO  nopCommerce:14 - Opened URL
+2021-10-29 22:31:16 INFO  nopCommerce:18 - Entered Email
+2021-10-29 22:31:16 INFO  nopCommerce:20 - Entered password
+2021-10-29 22:31:18 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-29 22:31:18 INFO  nopCommerce:27 - Login test passed
+2021-10-29 22:31:20 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:31:26 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:31:27 INFO  nopCommerce:20 - password provided
+2021-10-29 22:31:30 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:31:31 INFO  nopCommerce:20 - password provided
+2021-10-29 22:31:33 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:31:33 INFO  nopCommerce:20 - password provided
+2021-10-29 22:31:34 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:31:34 INFO  nopCommerce:20 - password provided
+2021-10-29 22:31:37 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:31:37 INFO  nopCommerce:20 - password provided
+2021-10-29 22:55:23 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:55:25 INFO  nopCommerce:14 - Opened URL
+2021-10-29 22:55:27 INFO  nopCommerce:18 - Entered Email
+2021-10-29 22:55:27 INFO  nopCommerce:20 - Entered password
+2021-10-29 22:55:28 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-29 22:55:29 INFO  nopCommerce:27 - Login test passed
+2021-10-29 22:55:31 INFO  nopCommerce:53 - Opened browser
+2021-10-29 22:55:36 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:55:36 INFO  nopCommerce:20 - password provided
+2021-10-29 22:55:40 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:55:40 INFO  nopCommerce:20 - password provided
+2021-10-29 22:55:43 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:55:43 INFO  nopCommerce:20 - password provided
+2021-10-29 22:55:45 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:55:45 INFO  nopCommerce:20 - password provided
+2021-10-29 22:55:47 INFO  nopCommerce:18 - user name provided
+2021-10-29 22:55:47 INFO  nopCommerce:20 - password provided
+2021-10-31 14:05:49 INFO  nopCommerce:53 - Opened browser
+2021-10-31 14:05:51 INFO  nopCommerce:14 - Opened URL
+2021-10-31 14:05:53 INFO  nopCommerce:18 - Entered Email
+2021-10-31 14:05:53 INFO  nopCommerce:20 - Entered password
+2021-10-31 14:05:54 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-31 14:05:54 INFO  nopCommerce:27 - Login test passed
+2021-10-31 14:05:57 INFO  nopCommerce:53 - Opened browser
+2021-10-31 14:06:02 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:06:02 INFO  nopCommerce:20 - password provided
+2021-10-31 14:06:06 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:06:06 INFO  nopCommerce:20 - password provided
+2021-10-31 14:06:08 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:06:08 INFO  nopCommerce:20 - password provided
+2021-10-31 14:06:10 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:06:10 INFO  nopCommerce:20 - password provided
+2021-10-31 14:06:12 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:06:12 INFO  nopCommerce:20 - password provided
+2021-10-31 14:07:26 INFO  nopCommerce:53 - Opened browser
+2021-10-31 14:07:27 INFO  nopCommerce:14 - Opened URL
+2021-10-31 14:07:29 INFO  nopCommerce:18 - Entered Email
+2021-10-31 14:07:30 INFO  nopCommerce:20 - Entered password
+2021-10-31 14:07:30 INFO  nopCommerce:22 - Clicked on Login button
+2021-10-31 14:07:30 INFO  nopCommerce:27 - Login test passed
+2021-10-31 14:07:32 INFO  nopCommerce:53 - Opened browser
+2021-10-31 14:07:38 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:07:38 INFO  nopCommerce:20 - password provided
+2021-10-31 14:07:43 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:07:43 INFO  nopCommerce:20 - password provided
+2021-10-31 14:07:47 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:07:47 INFO  nopCommerce:20 - password provided
+2021-10-31 14:07:49 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:07:49 INFO  nopCommerce:20 - password provided
+2021-10-31 14:07:50 INFO  nopCommerce:18 - user name provided
+2021-10-31 14:07:50 INFO  nopCommerce:20 - password provided
